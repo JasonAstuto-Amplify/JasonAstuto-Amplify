@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Interesting Projects
 - 📫 How to reach me ... JasonA@AmplifyCP.com
 New line here
+Adding yet another line
 
 <!---
 JasonAstuto-Amplify/JasonAstuto-Amplify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
