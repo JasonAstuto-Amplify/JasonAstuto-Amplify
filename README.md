@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Interesting Projects
 - 📫 How to reach me ... JasonA@AmplifyCP.com
+- 📫 How to reach me ... JAson.Astuto@Gmail.com
 New line here
 Adding yet another line
 
